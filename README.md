@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ShenSandaruRathnayaka
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Fullsatack...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Fullsatack Development
+- 📫 How to reach me `shensandarurath@gmail.com`
 
 <!---
 ShenSandaru/ShenSandaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
