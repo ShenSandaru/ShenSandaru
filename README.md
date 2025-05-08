@@ -37,6 +37,9 @@
   <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s; background-color: #38B2AC; padding: 5px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
+  <a href="https://vitejs.dev" target="_blank" title="Vite">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
 </div>
 
 ### Backend & Programming
@@ -53,6 +56,9 @@
   <a href="https://www.mysql.com" target="_blank" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
+  <a href="https://www.mongodb.com" target="_blank" title="MongoDB">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
 </div>
 
 ### Tools & Platforms
@@ -66,9 +72,16 @@
   <a href="https://vercel.com" target="_blank" title="Vercel">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
+  <a href="https://cloud.google.com" target="_blank" title="Google Cloud">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
 </div>
 
+## 📈 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shensandaru&theme=tokyo-night&hide_border=true" width="100%">
+</div>
 
 ## 📊 GitHub Stats
 
@@ -82,6 +95,16 @@
 
 </div>
 
+## 🧩 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/shensandaru/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shensandaru&repo=your-project-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/shensandaru/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shensandaru&repo=your-project-2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ## 🤝 Connect with Me
 
