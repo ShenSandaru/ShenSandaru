@@ -98,7 +98,7 @@
 ## 🧩 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/shensandaru/your-project-1">
+  <a href="https://github.com/shensandaru/viewme-us">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shensandaru&repo=your-project-1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/shensandaru/your-project-2">
