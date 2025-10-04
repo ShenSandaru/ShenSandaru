@@ -95,6 +95,14 @@
 
 </div>
 
+## 🏆 Badges & Achievements
+
+<div align="center">
+  
+[![An image of @shensandaru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shensandaru)](https://holopin.io/@shensandaru)
+  
+</div>
+
 ## 🧩 Featured Projects
 
 <div align="center">
