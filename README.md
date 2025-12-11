@@ -34,6 +34,9 @@
   <a href="https://reactjs.org" target="_blank" title="React">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
+  <a href="https://flutter.dev" target="_blank" title="Flutter">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
   <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s; background-color: #38B2AC; padding: 5px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
@@ -47,6 +50,9 @@
   <a href="https://nodejs.org" target="_blank" title="Node.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
+  <a href="https://dart.dev" target="_blank" title="Dart">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
   <a href="https://www.cprogramming.com" target="_blank" title="C">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
@@ -58,6 +64,13 @@
   </a>
   <a href="https://www.mongodb.com" target="_blank" title="MongoDB">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+</div>
+
+### Testing
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="https://testng.org" target="_blank" title="TestNG">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/testng.svg" alt="TestNG" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s; background-color: #3C3C3C; padding: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </div>
 
@@ -87,7 +100,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shensandaru&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=shensandaru&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Shen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shensandaru&show_icons=true&theme=tokyonight&hide_border=true)
 
