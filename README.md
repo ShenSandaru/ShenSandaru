@@ -99,12 +99,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=shensandaru&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Shen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shensandaru&show_icons=true&theme=tokyonight&hide_border=true)
+  <!-- Streak Stats (Working) -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ShenSandaru&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shensandaru&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1)
+  <!-- GitHub Stats (Might fail due to server outage) -->
+  ![Shen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShenSandaru&show_icons=true&theme=tokyonight&hide_border=true)
+
+  <!-- Top Langs (Syntax Fixed) -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenSandaru&layout=compact&theme=dark)
 
 </div>
 
