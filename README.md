@@ -6,7 +6,7 @@
 
 # Shen Sandaru
 
-### Full Stack Developer | IT Student | Open Source Advocate
+### Full Stack Developer | IT Student 
 
 <p>
   <a href="https://www.linkedin.com/in/shen-rathnayaka-a9629526a">
@@ -42,8 +42,7 @@
 🎓 **Student** at University of Moratuwa, Sri Lanka  
 🚀 **Full Stack Developer** crafting modern web experiences  
 ☁️ **Exploring** Cloud Architecture & System Design  
-🎨 **Passionate** about responsive, intuitive UI/UX  
-🔄 **Contributing** to Open Source projects  
+🎨 **Passionate** about responsive, intuitive UI/UX    
 📍 **Based in** Colombo, Sri Lanka
 
 </td>
