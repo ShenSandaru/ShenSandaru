@@ -1,12 +1,20 @@
 <!-- Modern README with Contemporary Design -->
+
+<div align="center">
+
+<!-- Wavy Blue Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0082c8,100:0052d4&height=200&section=header&text=Shen%20Sandaru&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Undergraduate&descSize=22&descAlignY=62" width="100%" alt="Header"/>
+
+<!-- Animated Typing Text -->
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Web3+%26+Decentralized+Tech+Enthusiast;Crafting+Modern+Full-Stack+Experiences" alt="Typing SVG" />
+</a>
+
+</div>
 <div align="center">
 
 <!-- Animated Header -->
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="wave">
-
-# Shen Sandaru
-
-### Full Stack Developer | IT Student 
 
 <p>
   <a href="https://www.linkedin.com/in/shen-rathnayaka-a9629526a">
