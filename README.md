@@ -50,7 +50,7 @@
 🎓 **Student** at University of Moratuwa, Sri Lanka  
 🚀 **Full Stack Developer** crafting modern web experiences  
 ☁️ **Exploring** Cloud Architecture & System Design  
-🎨 **Passionate** about responsive, intuitive UI/UX    
+🎨 **Passionate** Web3 | Cloud | Experiments  
 📍 **Based in** Colombo, Sri Lanka
 
 </td>
