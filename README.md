@@ -51,8 +51,8 @@
 🚀 **Full Stack Developer** crafting modern web experiences  
 ☁️ **Exploring** Cloud Architecture & System Design  
 🎨 **Passionate** Web3 | Cloud | Experiments  
-📍 **Based in** Colombo, Sri Lanka
-🌐 **Quick Check** My portfolio : www.shenrathnayaka.me
+📍 **Based in** Colombo, Sri Lanka </br>
+🌐 **Read more?** My portfolio : www.shenrathnayaka.me
 
 </td>
 </tr>
