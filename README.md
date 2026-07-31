@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Wavy Blue Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0082c8,100:0052d4&height=200&section=header&text=Shen%20S&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Undergraduate&descSize=22&descAlignY=62" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0082c8,100:0052d4&height=200&section=header&text=Shen%20Sandaru&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Undergraduate&descSize=22&descAlignY=62" width="100%" alt="Header"/>
 
 <!-- Animated Typing Text -->
 <a href="https://readme-typing-svg.demolab.com">
