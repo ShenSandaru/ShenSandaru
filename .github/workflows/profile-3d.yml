@@ -21,4 +21,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated profile-3d-contrib" || exit 0
-          git push
+          git pull --rebase origin main
+          git push origin main
