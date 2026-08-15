@@ -141,10 +141,13 @@ Cloud Platforms: Google Cloud, Vercel, AWS
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShenSandaru&theme=nord&hide_border=true&background=0D1117)](https://github.com/shensandaru)
 
 <!-- GitHub Stats Card -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShenSandaru&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0&icon_color=36BCF7&rank_icon=percentile)](https://github.com/shensandaru)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shensandaru&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0&icon_color=36BCF7)](https://github.com/shensandaru)
 
 <!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenSandaru&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0)](https://github.com/shensandaru)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shensandaru&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0)](https://github.com/shensandaru)
+
+<!-- 3D Contribution Graph -->
+<img src="https://raw.githubusercontent.com/shensandaru/shensandaru/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 </div>
 
