@@ -60,74 +60,13 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend Ecosystem
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-```
-HTML5 • CSS3 • JavaScript (ES6+) • React • Next.js
-Tailwind CSS • Vite • Flutter • Responsive Design
-```
-
-</div>
-
-<div align="center">
-
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://html5.org"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/></a><br><small>HTML5</small> | <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/></a><br><small>CSS3</small> | <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/></a><br><small>JavaScript</small> | <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/></a><br><small>React</small> | <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/></a><br><small>Next.js</small> |
-| <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind"/></a><br><small>Tailwind</small> | <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="Vite"/></a><br><small>Vite</small> | <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter"/></a><br><small>Flutter</small> | <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/></a><br><small>Figma</small> | |
-
-</div>
-
-### Backend & Programming Languages
-
-<div align="center">
-
-```
-Node.js • Express.js • PHP • Dart • C
-MySQL • MongoDB • REST APIs • Database Design
-```
-
-</div>
-
-<div align="center">
-
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/></a><br><small>Node.js</small> | <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/></a><br><small>Express</small> | <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/></a><br><small>PHP</small> | <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" width="50" height="50" alt="Dart"/></a><br><small>Dart</small> | <a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/></a><br><small>C</small> |
-| <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/></a><br><small>MySQL</small> | <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/></a><br><small>MongoDB</small> | <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/></a><br><small>Firebase</small> | <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL"/></a><br><small>PostgreSQL</small> | |
-
-</div>
-
-### DevOps & Tools
-
-<div align="center">
-
-```
-Docker • Kubernetes • Git • CI/CD Pipelines
-Cloud Platforms: Google Cloud, Vercel, AWS
-```
-
-</div>
-
-<div align="center">
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/></a><br><small>Docker</small> | <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="Kubernetes"/></a><br><small>Kubernetes</small> | <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/></a><br><small>Git</small> | <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux"/></a><br><small>Linux</small> |
-
-</div>
-
-### Testing & Development
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" width="50" height="50" alt="Jest"/></a><br><small>Jest</small> | <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/></a><br><small>VS Code</small> |
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart,nodejs,express,mongodb,mysql,postgres,firebase,docker,kubernetes,git,linux,gcp,aws,vercel,vscode,figma&perline=12" alt="My Tech Stack" />
+</a>
 
 </div>
 
