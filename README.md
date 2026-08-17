@@ -37,6 +37,13 @@
   <img src="https://img.shields.io/github/followers/shensandaru?style=flat-square&color=36BCF7" alt="Followers">
 </div>
 
+<!-- Committers Badge -->
+<div>
+  <a href="https://user-badge.committers.top/sri_lanka/shensandaru">
+    <img src="https://user-badge.committers.top/sri_lanka/shensandaru.svg" alt="committers.top badge">
+  </a>
+</div>
+
 </div>
 
 ---
