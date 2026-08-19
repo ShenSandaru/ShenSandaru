@@ -39,8 +39,8 @@
 
 <!-- Committers Badge -->
 <div>
-  <a href="https://user-badge.committers.top/sri_lanka/shensandaru">
-    <img src="https://user-badge.committers.top/sri_lanka/shensandaru.svg" alt="committers.top badge">
+  <a href="https://user-badge.committers.top/sri_lanka/ShenSandaru">
+    <img src="https://user-badge.committers.top/sri_lanka/ShenSandaru.svg" alt="committers.top badge">
   </a>
 </div>
 
