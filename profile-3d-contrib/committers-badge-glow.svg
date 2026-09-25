@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="385" height="70" viewBox="0 0 385 70" role="img" aria-labelledby="title desc">
+  <title id="title">committers.top badge</title>
+  <desc id="desc">Sri Lanka committers.top ranking badge with an animated cyan glow.</desc>
+  <defs>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+    </filter>
+  </defs>
+  <rect x="8" y="12" width="369" height="46" rx="23" fill="#0d1117" stroke="#36bcf7" stroke-width="2" opacity="0.95">
+    <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite" />
+  </rect>
+  <rect x="8" y="12" width="369" height="46" rx="23" fill="none" stroke="#36bcf7" stroke-width="5" opacity="0.55" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.18;0.7;0.18" dur="2.4s" repeatCount="indefinite" />
+  </rect>
+  <image href="https://user-badge.committers.top/sri_lanka/ShenSandaru.svg" x="30" y="25" width="325" height="20" />
+</svg>

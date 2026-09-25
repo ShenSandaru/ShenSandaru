@@ -26,7 +26,7 @@
 <!-- Committers Badge -->
 <div>
   <a href="https://user-badge.committers.top/sri_lanka/ShenSandaru">
-    <img src="https://user-badge.committers.top/sri_lanka/ShenSandaru.svg" alt="committers.top badge">
+    <img src="./profile-3d-contrib/committers-badge-glow.svg" alt="committers.top badge with animated glow">
   </a>
 </div>
 
