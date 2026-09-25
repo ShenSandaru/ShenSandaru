@@ -26,7 +26,7 @@
     <img src="https://user-badge.committers.top/sri_lanka/ShenSandaru.svg" alt="committers.top badge">
   </a>
   <br>
-  <img src="./profile-3d-contrib/committers-badge-border.svg" alt="" aria-hidden="true">
+  <img src="https://raw.githubusercontent.com/ShenSandaru/ShenSandaru/main/profile-3d-contrib/committers-badge-border.svg" alt="Animated neon border under committers badge">
 </div>
 
 </div>
