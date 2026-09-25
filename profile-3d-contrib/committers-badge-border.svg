@@ -1,19 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="365" height="14" viewBox="0 0 365 14" role="img" aria-label="Decorative glowing border">
+<svg xmlns="http://www.w3.org/2000/svg" width="365" height="22" viewBox="0 0 365 22" role="img" aria-label="Decorative neon glowing line">
   <defs>
-    <filter id="glow" x="-20%" y="-200%" width="140%" height="500%">
-      <feGaussianBlur stdDeviation="3" />
+    <filter id="glow" x="-20%" y="-150%" width="140%" height="400%">
+      <feGaussianBlur stdDeviation="4" />
     </filter>
-    <linearGradient id="cyanLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#36bcf7" stop-opacity="0" />
-      <stop offset="0.2" stop-color="#36bcf7" />
-      <stop offset="0.8" stop-color="#36bcf7" />
-      <stop offset="1" stop-color="#36bcf7" stop-opacity="0" />
+    <linearGradient id="neonLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff" />
+      <stop offset="0.5" stop-color="#7c4dff" />
+      <stop offset="1" stop-color="#00e5ff" />
     </linearGradient>
   </defs>
-  <path d="M8 7h349" stroke="#36bcf7" stroke-width="5" stroke-linecap="round" opacity="0.7" filter="url(#glow)">
-    <animate attributeName="opacity" values="0.2;0.85;0.2" dur="2.4s" repeatCount="indefinite" />
+  <path d="M8 11h349" stroke="#00e5ff" stroke-width="7" stroke-linecap="round" opacity="0.8" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" repeatCount="indefinite" />
   </path>
-  <path d="M8 7h349" stroke="url(#cyanLine)" stroke-width="2" stroke-linecap="round">
-    <animate attributeName="stroke-width" values="1;2.5;1" dur="2.4s" repeatCount="indefinite" />
+  <path d="M8 11h349" stroke="url(#neonLine)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="stroke-width" values="2;4;2" dur="2.2s" repeatCount="indefinite" />
   </path>
+  <circle cx="8" cy="11" r="3" fill="#ffffff">
+    <animate attributeName="cx" values="8;357;8" dur="2.2s" repeatCount="indefinite" />
+  </circle>
 </svg>
