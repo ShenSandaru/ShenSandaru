@@ -78,7 +78,7 @@
   </a>
   &nbsp;
   <a href="https://midnight.network/" title="Midnight">
-    <img src="https://midnight.network/brand-hub/logo-compact-light.svg" width="48" height="48" alt="Midnight" />
+    <img src="./icons/midnight.svg" width="48" height="48" alt="Midnight" />
   </a>
 
 </div>
