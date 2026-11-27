@@ -61,6 +61,30 @@
 
 ---
 
+## 🌐 Web3
+
+<div align="center">
+
+  <a href="https://xrpl.org/" title="XRPL">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/XRP_Ledger_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20241120170041" width="48" height="48" alt="XRPL" />
+  </a>
+  &nbsp;
+  <a href="https://xaman.app/" title="XUMM Wallet">
+    <img src="https://play-lh.googleusercontent.com/UORgrFkkA5N8dhBVgTJP09Rz6MmdW7_FFrG8qCPPq7OAaNdBAwI53Hbzyc3CIFNFF9uJguelTm8SsYLn0OfNH8A" width="48" height="48" alt="XUMM Wallet" />
+  </a>
+  &nbsp;
+  <a href="https://solana.com/" title="Solana">
+    <img src="./icons/solana.svg" width="48" height="48" alt="Solana" />
+  </a>
+  &nbsp;
+  <a href="https://midnight.network/" title="Midnight">
+    <img src="https://midnight.network/brand-hub/logo-compact-light.svg" width="48" height="48" alt="Midnight" />
+  </a>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">

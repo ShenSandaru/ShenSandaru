@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="solanaGrad" x1="48" y1="196" x2="208" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00FFA3"/>
+      <stop offset="100%" stop-color="#DC1FFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <path d="M74.4 162.8C75.7 161.5 77.5 160.8 79.4 160.8H203.2C206.3 160.8 207.9 164.6 205.7 166.8L181.6 190.9C180.3 192.2 178.5 192.9 176.6 192.9H52.8C49.7 192.9 48.1 189.1 50.3 186.9L74.4 162.8Z" fill="url(#solanaGrad)"/>
+  <path d="M74.4 65.1C75.7 63.8 77.5 63.1 79.4 63.1H203.2C206.3 63.1 207.9 66.9 205.7 69.1L181.6 93.2C180.3 94.5 178.5 95.2 176.6 95.2H52.8C49.7 95.2 48.1 91.4 50.3 89.2L74.4 65.1Z" fill="url(#solanaGrad)"/>
+  <path d="M181.6 113.7C180.3 112.4 178.5 111.7 176.6 111.7H52.8C49.7 111.7 48.1 115.5 50.3 117.7L74.4 141.8C75.7 143.1 77.5 143.8 79.4 143.8H203.2C206.3 143.8 207.9 140 205.7 137.8L181.6 113.7Z" fill="url(#solanaGrad)"/>
+</svg>
